@@ -5,7 +5,6 @@ I'm learning iOS🍎
 <br> </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-j-h-c&show_icons=true&theme=radical)
 <br> </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-j-h-c)
 
 <!--
 **L-j-h-c/L-j-h-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

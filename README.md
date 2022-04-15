@@ -10,6 +10,7 @@ I'm learning iOS🍎
 
 ### Problem Solving
 22.04.15. Unrated
+22.04.15. Bronze5
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seolagir)](https://solved.ac/seolagir/)
 

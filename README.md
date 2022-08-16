@@ -11,7 +11,7 @@ I'm learning iOS🍎
 ### Problem Solving
 22.04.15. Unrated
 22.04.15. Bronze5
-22.05.02. Silver5
+22.08.14. Silver5
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seolagir)](https://solved.ac/seolagir/)
 

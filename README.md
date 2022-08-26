@@ -23,8 +23,8 @@
 > Skills
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>  <br>
-<img src="https://img.shields.io/badge/Git-f05030?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-important?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>  <br>
+<img src="https://img.shields.io/badge/Git-f05030?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Fastlane-inactive?style=flat&logo=Fastlane"/> <br>
 
 > Tools
 

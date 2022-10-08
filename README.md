@@ -14,8 +14,9 @@
 #### Experience
 > 2022
 - WaffleStudio 20.5th Rookies at SNU, Spring Backend Course (2022.08 ~)
-- Gamsung Soft Inc. iOS Developer (2022.7 ~)
+- Gamsung Soft Inc. iOS Developer (2022.07 ~ 2022.10)
 - SOPT 30th iOS Part (2022.02 ~ 2022.08)
+- SOPT Makers 1st iOS Part (2022.09 ~ )
 > 2021
 - SOPT 29th iOS Part (2021.09 ~ 2022.01)
 

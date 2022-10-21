@@ -9,7 +9,7 @@
 | Service | Description | Group | Link |
 |:---:|:---:|:---:|:---:|
 | Spark | 친구와 함께하는 66일간의 습관 형성 서비스 | SOPT 29기 AppJam | [Team Sparker](https://github.com/TeamSparker) <br> [App Store](https://apps.apple.com/kr/app/spark-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B9%9C%EA%B5%AC%EC%99%80-%EC%8A%B5%EA%B4%80-%EA%B4%80%EB%A6%AC/id1605811861) / [Play Store](https://play.google.com/store/apps/details?id=com.teamsparker.android) |
-| 헬푸미 | 다이어터를 위한 식당 추천 지도앱 | SOPT 30기 AppJam | - |
+| 헬푸미 | 다이어터를 위한 식당 추천 지도앱 | SOPT 30기 AppJam | [HealthFoodMe](https://github.com/Health-Food-Me) <br> [App Store](https://apps.apple.com/kr/app/%ED%97%AC%ED%91%B8%EB%AF%B8/id1632788399) / [Play Store](https://play.google.com/store/apps/details?id=org.helfoome) |
 
 #### Experience
 > 2022

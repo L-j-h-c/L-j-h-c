@@ -13,10 +13,10 @@
 
 #### Experience
 > 2022
+- SOPT Makers 1st iOS Part (2022.09 ~ )
 - WaffleStudio 20.5th Rookies at SNU, Spring Backend Course (2022.08 ~)
 - Gamsung Soft Inc. iOS Developer (2022.07 ~ 2022.10)
 - SOPT 30th iOS Part (2022.02 ~ 2022.08)
-- SOPT Makers 1st iOS Part (2022.09 ~ )
 > 2021
 - SOPT 29th iOS Part (2021.09 ~ 2022.01)
 
@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 
 #### Problem Solving(Studying)
-> 22.04.15. Bronze5 / 22.08.14. Silver5
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seolagir)](https://solved.ac/seolagir/)
 

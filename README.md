@@ -11,7 +11,7 @@
 | Spark | 친구와 함께하는 66일간의 습관 형성 서비스 | SOPT 29기 AppJam | [Repo](https://github.com/TeamSparker) <br> [App Store](https://apps.apple.com/kr/app/spark-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B9%9C%EA%B5%AC%EC%99%80-%EC%8A%B5%EA%B4%80-%EA%B4%80%EB%A6%AC/id1605811861) / [Play Store](https://play.google.com/store/apps/details?id=com.teamsparker.android) |
 | 헬푸미 | 다이어터를 위한 식당 추천 지도 서비스 | SOPT 30기 AppJam | [Repo](https://github.com/Health-Food-Me) <br> [App Store](https://apps.apple.com/kr/app/%ED%97%AC%ED%91%B8%EB%AF%B8/id1632788399) / [Play Store](https://play.google.com/store/apps/details?id=org.helfoome) |
 | 날아라 자막 | 모션 자막을 영상에 추가하는 서비스 | Gamsung Soft Inc. 인턴 | [App Store](https://apps.apple.com/kr/app/%EB%82%A0%EC%95%84%EB%9D%BC-%EC%9E%90%EB%A7%89-%EB%82%A0%EC%9E%90/id1625784600) |
-| 레코드림 | 꿈을 기록하고 재생하는 서비스 | Team RecorDream | [Repo](https://github.com/TeamRecorDream/RecorDream-iOS) |
+| 레코드림 | 꿈을 기록하고 재생하는 서비스 | Team RecorDream | [Repo](https://github.com/TeamRecorDream/RecorDream-iOS) <br> [App Store](https://apps.apple.com/kr/app/%EB%A0%88%EC%BD%94%EB%93%9C%EB%A6%BC/id1645675304) |
 | SOPT | SOPT인을 위한 미션 추천 및 인증 서비스 | SOPT Makers 1st | [Repo](https://github.com/sopt-makers/SOPT-Stamp-iOS) <br> [App Store](https://apps.apple.com/kr/app/sopt/id6444594319) |
 
 #### Experience

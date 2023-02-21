@@ -13,10 +13,13 @@
 | 날아라 자막 | 모션 자막을 영상에 추가하는 서비스 | Gamsung Soft Inc. 인턴 | [App Store](https://apps.apple.com/kr/app/%EB%82%A0%EC%95%84%EB%9D%BC-%EC%9E%90%EB%A7%89-%EB%82%A0%EC%9E%90/id1625784600) |
 | 레코드림 | 꿈을 기록하고 재생하는 서비스 | Team RecorDream | [Repo](https://github.com/TeamRecorDream/RecorDream-iOS) <br> [App Store](https://apps.apple.com/kr/app/%EB%A0%88%EC%BD%94%EB%93%9C%EB%A6%BC/id1645675304) |
 | SOPT | SOPT인을 위한 미션 추천 및 인증 서비스 | SOPT Makers 1st | [Repo](https://github.com/sopt-makers/SOPT-Stamp-iOS) <br> [App Store](https://apps.apple.com/kr/app/sopt/id6444594319) |
+| 지구는 둥그니까 | 눈사람과 함께하는 만보기 서비스 | EarthIsRound | [Repo](https://github.com/Earth-Is-Round/Client-iOS) |
 
 #### Experience
+> 2023
+- SOPT Makers 2nd iOS Part (2023.02 ~ )
 > 2022
-- SOPT Makers 1st iOS Part (2022.09 ~ )
+- SOPT Makers 1st iOS Part (2022.09 ~ 2023.01)
 - WaffleStudio 20.5th Rookies at SNU, Spring Backend Course (2022.08 ~)
 - Gamsung Soft Inc. iOS Developer (2022.07 ~ 2022.10)
 - SOPT 30th iOS Part (2022.02 ~ 2022.08)

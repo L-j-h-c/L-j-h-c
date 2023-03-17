@@ -37,10 +37,6 @@
 
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 
-#### Problem Solving(Studying)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seolagir)](https://solved.ac/seolagir/)
-
 #### Link
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://jazz-the-it.tistory.com/)](https://jazz-the-it.tistory.com/)
